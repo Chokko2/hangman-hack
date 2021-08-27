@@ -11,7 +11,7 @@ https://www.helpfulgames.com/subjects/english/hangman.html
 
 ### Not working?
 Make sure you've enabled tampermonkey and that you've enabled this script.<br>
-Make sure that you copy-pasted all the code by using Ctrl+A, Ctrl+C in https://raw.githubusercontent.com/Chokko2/hangman-hack/main/elevspel-hack.js and then Ctrl+P in your script.<br>
+Make sure that you copy-pasted all the code by using Ctrl+A, Ctrl+C in https://raw.githubusercontent.com/Chokko2/hangman-hack/main/elevspel-hack.js and then Ctrl+V in your script.<br>
 Make sure you are on: <br>
 https://www.elevspel.se/amnen/svenska/hanga-gubbe.html or
 https://www.helpfulgames.com/subjects/english/hangman.html
